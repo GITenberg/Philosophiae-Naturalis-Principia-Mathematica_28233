@@ -1,0 +1,33 @@
+_repo: Philosophiae-Naturalis-Principia-Mathematica_28233
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newton, Isaac
+    alias: Newton, Sir Isaac
+    birthdate: 1642
+    deathdate: 1727
+    gutenberg_agent_id: '6288'
+    url: http://www.gutenberg.org/2009/agents/6288
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Newton
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Mathematics
+- Physics
+gutenberg_issued: '2009-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28233'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Celestial mechanics -- Early works to 1800'
+- !lcc 'QA'
+- !lcsh 'Mechanics -- Early works to 1800'
+title: Philosophiae Naturalis Principia Mathematica
+url: http://www.gutenberg.org/ebooks/28233
