@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6288
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Newton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28233#Philosophiae-Naturalis-Principia-Mathematica
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Mathematics
